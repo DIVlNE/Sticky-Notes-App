@@ -1,6 +1,8 @@
 # Sticky-Notes-App
 It is a Simple Notes App , double click on the selected note to delete it.
 
+Link: https://divlne.github.io/Sticky-Notes-App/
+
 I followed this Tutorial from a Youtuber - dcode 
 
 Concepts learned in this 
