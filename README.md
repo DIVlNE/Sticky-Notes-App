@@ -1,5 +1,5 @@
 # Sticky-Notes-App
-It is a Simple Notes App 
+It is a Simple Notes App , double click on the selected note to delete it.
 
 I followed this Tutorial from a Youtuber - dcode 
 
